@@ -8,9 +8,9 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+### Medieval Manuscript Fragments at USF
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+This site is a proof-of-concept mockup of a digital exhibition on medieval manuscript fragments housed in USF Libraries Special Collections. I've included a sample set of images from different items in the collection (this equates to about half the total manuscripts that would need to be digitized) with a few sample metadata fields to demonstrate the searching and browsing capabilities of a Wax-built digital library. I've also included a sample exhibition page to demonstrate how this site allows for multiple layouts, using images from the collection. For more information about Wax, check the links and credits in the footer. To access the github for this site and view the file and folder structure, follow [this link](https://github.com/rsbevill/fragmentsatusf). 
 
 ### Browse the Collection
 
