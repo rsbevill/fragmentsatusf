@@ -64,7 +64,7 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  fragments: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'fragment_item' # the layout for the pages to use
     metadata:
