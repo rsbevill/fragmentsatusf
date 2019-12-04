@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Manuscript Fragments at USF'
+title:            'Fragments @ USF'
 description:      'An experimental exhibition in minimal computing fragmentology'
 url:              'https://rsbevill.github.io'
 baseurl:          '/fragmentsatusf'
@@ -84,7 +84,7 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      fragments:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
           - provenance

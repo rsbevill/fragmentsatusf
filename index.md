@@ -2,8 +2,8 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  collection: fragments
+  pid: chart2
   y: 25%
   height: '500px'
 ---

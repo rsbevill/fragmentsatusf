@@ -1,0 +1,51 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/fragments.json",
+  "@type": "sc:Collection",
+  "label": "fragments",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/antiph1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "antiph1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/antiph2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "antiph2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/arabic2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "arabic2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bind1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "bind1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/chart2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "chart2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ege1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ege1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ege2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ege2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ege3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ege3"
+    }
+  ]
+}
