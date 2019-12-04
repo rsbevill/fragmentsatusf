@@ -26,10 +26,7 @@ This project, with its tight focus on the manuscript fragments held at a single 
 * Where does this small collection of medieval material fit within the larger holdings of USF libraries (which include strong collections of Cuban-American documents, science fiction pulps, and Floridiana)?
 * How are manuscripts usually broken into fragments and sold into independent or institutional collections? What are the ethical considerations of building a collection of manuscript fragments and how can USF contribute to the present-day conversations on this practice?
 
-
-
-
-
+### Notes
 
 [^1]: William Duba and Christoph Flüeler, “Fragments and Fragmentology” (editorial), Fragmentology 1(2018), 1–5 (DOI: 10.24446/a04a). http://fragmentology.ms/issues/1-2018/editorial/.
 [^2]: Conway and Davis, 2014. https://bibsocamer.org/BibSite/Conway-Davis/Pre-1600.Mss.Holdings.pdf.
